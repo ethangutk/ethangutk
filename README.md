@@ -1,5 +1,5 @@
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio for the majority of my life. I started to get into computers my early middle school years coding virtual games on ROBLOX within a low level coding languge called Lua. I made two very successful games on [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title") with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelors degree within computer science. I am attending Miami Universirty in the lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this feild and find exactly what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaniously! Feel free to take a look at any projects I posted and shoot me any questions if needed!
+I grew up in Cleveland, Ohio for the majority of my life. I started to get into computers my early middle school years coding virtual games on ROBLOX within a low-level coding languge called Lua. On [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending Miami University in the lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find exactly what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaniously! Feel free to take a look at any projects I posted and shoot me any questions if needed!
 
 ## 🎓 *Courses I've Taken*
 <details>
@@ -18,12 +18,12 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
     <summary>🖼 Foundations of Graphics</summary>
 
  - Introduced techniques used to create images on the computer.
- - Covered the algorithms and mathematical theory behind three dimensional image generation
+ - Covered the algorithms and mathematical theory behind three-dimensional image generation
  - Emphasis on:
      - 3D geometry
      - 3D transformations
      - The graphics pipeline
-     - Raytracing algorithms ([link to project](https://github.com/ethangutknecht/RaytracingProgram "link to project title"))
+     - Raytracing algorithms ([see project](https://github.com/ethangutknecht/RaytracingProgram))
      - Object ordered algorithms
 </details>
 <details>
@@ -38,18 +38,18 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
 <details>
     <summary>🔐 Systems I & II</summary>
 
- - This course introduced to operating systems concepts and using it as a resource manager. 
+ - This course introduced operating systems concepts and using them as a resource manager. 
  - The principles for the design and implementation of operating systems. 
  - Process scheduling and deadlock prevention. 
  - Memory management, virtual memory, paging, segmentation, and interrupt processing.  
- - Device management, I/O systems and I/O processing. Concurrency and multithreading. 
+ - Device management, I/O systems, and I/O processing. Concurrency and multithreading. 
  - Virtualization and cloud services. Security and protection.
 </details>
 <details>
     <summary>⏰ Algorithms</summary>
 
  - Time is money!
- - This class designed, analyze and implementation of algorithms and data structures. 
+ - This class designed, analyzed, and implementated algorithms and data structures. 
  - Dynamic programming, brute force algorithms, divide and conquer algorithms.
  - Greedy algorithms, graph algorithms, red-black trees, string matching and computational geometry.
 </details>
@@ -65,7 +65,7 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
 <details>
     <summary>💻 Web Application Programming</summary>
     
- - An introduction to the software, concepts and methodologies necessary to design and implement web applications. 
+ - An introduction to the software, concepts, and methodologies necessary to design and implement web applications. 
  - Designed and construct web applications utilizing remote servers on multiple platforms. 
 </details>
 
