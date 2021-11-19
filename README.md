@@ -7,13 +7,13 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
 
  - Implementation of cross-platform applications for mobile platforms such as iOS and Android. 
  - Programming languages, development environments, debugging, testing, and application design. 
+ - [Developed a meal tracker mobile application](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
  - Developed applications that: 
      - Provide an effective graphical interface
      - Access internet resources
      - Permanently store data using local databases
      - Access different device hardware
      - Display graphical elements.
-     - [Created a final project](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
 </details>
 <details>
     <summary>🖼 Foundations of Graphics</summary>
