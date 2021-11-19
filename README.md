@@ -2,7 +2,7 @@
 I grew up in Cleveland, Ohio for the majority of my life. I started to get into computers my early middle school years coding virtual games on ROBLOX within a low-level coding languge called Lua. On [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending Miami University in the lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find exactly what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaniously! Feel free to take a look at any projects I posted and shoot me any questions if needed!
 
 ## 🎓 *Courses I've Taken*
-<details>
+<details open=true>
     <summary>📱  Mobile App Development</summary>
 
  - Implementation of cross-platform applications for mobile platforms such as iOS and Android. 
@@ -13,8 +13,9 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
      - Permanently store data using local databases
      - Access different device hardware
      - Display graphical elements.
+     - [Created a final project](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
 </details>
-<details open=true>
+<details>
     <summary>🖼 Foundations of Graphics</summary>
 
  - Introduced techniques used to create images on the computer.
