@@ -1,5 +1,5 @@
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio for the majority of my life. I started to get into computers my early middle school years coding virtual games on ROBLOX within a low-level coding languge called Lua. On [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending Miami University in the lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find exactly what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaniously! Feel free to take a look at any projects I posted and shoot me any questions if needed!
+I grew up in Cleveland, Ohio, for the majority of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. On [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending Miami University in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaneously! Feel free to take a look at any projects I posted and shoot me any questions if needed!
 
 ## 🎓 *Courses I've Taken*
 <details open=true>
@@ -7,10 +7,10 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
 
  - Implementation of cross-platform applications for mobile platforms such as iOS and Android. 
  - Programming languages, development environments, debugging, testing, and application design. 
- - [Developed a meal tracker mobile application](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
  - Developed applications that: 
      - Provide an effective graphical interface
      - Access internet resources
+     - [Developed a meal tracker mobile application](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
      - Permanently store data using local databases
      - Access different device hardware
      - Display graphical elements.
@@ -24,7 +24,7 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
      - 3D geometry
      - 3D transformations
      - The graphics pipeline
-     - Raytracing algorithms ([see project](https://github.com/ethangutknecht/RaytracingProgram))
+     - Raytracing algorithms ([link to the project](https://github.com/ethangutknecht/RaytracingProgram "link to project title"))
      - Object ordered algorithms
 </details>
 <details>
@@ -32,16 +32,16 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
 
  - Learned about abstract data types and their implementation as data structures using object-oriented programming. 
  - Use of object-oriented principles in the selection and analysis of various ADT implementations. 
- - Sequential and linked storage representations: lists, stacks, queues, and tables. 
+ - Created sequential and linked storage representations: lists, stacks, queues, and tables. 
  - Nonlinear data structures: trees and graphs. 
  - Recursion, sorting, searching, and algorithm complexity.
 </details>
 <details>
     <summary>🔐 Systems I & II</summary>
 
- - This course introduced operating systems concepts and using them as a resource manager. 
+ - This course introduced operating systems concepts and used them as a resource manager. 
  - The principles for the design and implementation of operating systems. 
- - Process scheduling and deadlock prevention. 
+ - Processed scheduling and deadlock prevention. 
  - Memory management, virtual memory, paging, segmentation, and interrupt processing.  
  - Device management, I/O systems, and I/O processing. Concurrency and multithreading. 
  - Virtualization and cloud services. Security and protection.
@@ -50,7 +50,7 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
     <summary>⏰ Algorithms</summary>
 
  - Time is money!
- - This class designed, analyzed, and implementated algorithms and data structures. 
+ - This class designed, analyzed, and implemented algorithms and data structures. 
  - Dynamic programming, brute force algorithms, divide and conquer algorithms.
  - Greedy algorithms, graph algorithms, red-black trees, string matching and computational geometry.
 </details>
@@ -59,7 +59,7 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
 
  - Re-discussed the overview of database management, database system architecture, database modeling principles, and logical database design.
  - The relational database model, relational integrity constraints, and relational algebra. 
- - Relational commercial database management systems and languages.
+ - Dove deep into relational commercial database management systems and languages.
  - Interactive database processing, view processing, and database application programming.
  - Database integrity, relational database design by normalization, and file structures for database systems.
 </details>
@@ -73,4 +73,5 @@ I grew up in Cleveland, Ohio for the majority of my life. I started to get into 
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethan-gutknecht-2aaa97201/](https://www.linkedin.com/in/ethan-gutknecht-2aaa97201/)
  - **📧 Email** - gutkneET@miamioh.edu
+
 
