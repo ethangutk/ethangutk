@@ -2,7 +2,7 @@
 I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. On [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending Miami University in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
 
 ## 🎓 *Courses I've Taken*
-<details open=true>
+<details>
     <summary>📱  Mobile App Development</summary>
 
  - Implementation of cross-platform applications for mobile platforms such as iOS and Android. 
@@ -10,12 +10,12 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - Developed applications that: 
      - Provide an effective graphical interface
      - Access internet resources
-     - [Developed a meal tracker mobile application](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
+     - [Developed a meal tracker mobile application (click here to view)](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
      - Permanently store data using local databases
      - Access different device hardware
      - Display graphical elements.
 </details>
-<details>
+<details open=true>
     <summary>🖼 Foundations of Graphics</summary>
 
  - Introduced techniques used to create images on the computer.
@@ -57,7 +57,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <details>
     <summary>💿 Database Systems</summary>
 
- - [Realistic hospital database project (click here to view a project)](https://github.com/ethangutknecht/Hospital-SQL-Database)
+ - [Hospital database project (click here to view)](https://github.com/ethangutknecht/Hospital-SQL-Database)
  - Re-discussed the overview of database management, database system architecture, database modeling principles, and logical database design.
  - The relational database model, relational integrity constraints, and relational algebra. 
  - Dove deep into relational commercial database management systems and languages.
