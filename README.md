@@ -1,5 +1,5 @@
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio, for the majority of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. On [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending Miami University in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaneously! Feel free to take a look at any projects I posted and shoot me any questions if needed!
+I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. On [my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games with *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old! As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending Miami University in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
 
 ## 🎓 *Courses I've Taken*
 <details open=true>
@@ -24,7 +24,7 @@ I grew up in Cleveland, Ohio, for the majority of my life. In my early middle sc
      - 3D geometry
      - 3D transformations
      - The graphics pipeline
-     - Raytracing algorithms ([link to the project](https://github.com/ethangutknecht/RaytracingProgram "link to project title"))
+     - [Raytracing algorithm project (click here to view)](https://github.com/ethangutknecht/RaytracingProgram)
      - Object ordered algorithms
 </details>
 <details>
@@ -57,6 +57,7 @@ I grew up in Cleveland, Ohio, for the majority of my life. In my early middle sc
 <details>
     <summary>💿 Database Systems</summary>
 
+ - [Realistic hospital database project (click here to view a project)](https://github.com/ethangutknecht/Hospital-SQL-Database)
  - Re-discussed the overview of database management, database system architecture, database modeling principles, and logical database design.
  - The relational database model, relational integrity constraints, and relational algebra. 
  - Dove deep into relational commercial database management systems and languages.
@@ -73,5 +74,3 @@ I grew up in Cleveland, Ohio, for the majority of my life. In my early middle sc
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethan-gutknecht-2aaa97201/](https://www.linkedin.com/in/ethan-gutknecht-2aaa97201/)
  - **📧 Email** - gutkneET@miamioh.edu
-
-
