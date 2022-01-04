@@ -5,10 +5,10 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br>
 
 ## 🏗 *My Projects*
- - [Raytracing Algorithm Program that creates 3D renders. (🔴C++)](https://github.com/ethangutknecht/RaytracingProgram)
- - [Meal Tracker Mobile Application. (🟢C#)](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
- - [Realistic Hospital Database. (🟠SQL)](https://github.com/ethangutknecht/Hospital-SQL-Database)
- - [Fullstack MapQuest Web Application. (🟤HTML, 🟣CSS, 🟡Javascript)](https://github.com/ethangutknecht/MapQuest-Application)
+ - [Raytracing Algorithm Program that creates 3D renders. **(🔴C++)**](https://github.com/ethangutknecht/RaytracingProgram)
+ - [Meal Tracker Mobile Application. **(🟢C#)**](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
+ - [Realistic Hospital Database. **(🟠SQL)**](https://github.com/ethangutknecht/Hospital-SQL-Database)
+ - [Fullstack MapQuest Web Application. **(🟤HTML, 🟣CSS, 🟡Javascript)**](https://github.com/ethangutknecht/MapQuest-Application)
 <br>
 
 ## 🎓 *Courses I've Taken*
