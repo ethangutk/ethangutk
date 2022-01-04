@@ -10,7 +10,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - Developed applications that: 
      - Provide an effective graphical interface
      - Access internet resources
-     - [Developed a meal tracker mobile application (click here to view)](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
+     - [Developed a meal tracker mobile application as a final project](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
      - Permanently store data using local databases
      - Access different device hardware
      - Display graphical elements.
@@ -24,7 +24,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
      - 3D geometry
      - 3D transformations
      - The graphics pipeline
-     - [Raytracing algorithm project (click here to view)](https://github.com/ethangutknecht/RaytracingProgram)
+     - [Created a raytracing algorithm project (click here to view)](https://github.com/ethangutknecht/RaytracingProgram)
      - Object ordered algorithms
 </details>
 <details>
@@ -57,7 +57,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <details>
     <summary>💿 Database Systems</summary>
 
- - [Hospital database project (click here to view)](https://github.com/ethangutknecht/Hospital-SQL-Database)
+ - [Created a realistic hospital database over multiple projects (click here to view a project)](https://github.com/ethangutknecht/Hospital-SQL-Database)
  - Re-discussed the overview of database management, database system architecture, database modeling principles, and logical database design.
  - The relational database model, relational integrity constraints, and relational algebra. 
  - Dove deep into relational commercial database management systems and languages.
@@ -67,6 +67,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <details>
     <summary>💻 Web Application Programming</summary>
     
+ - [Created a full-stack web application as my final project (click here to view a project)](https://github.com/ethangutknecht/MapQuest-Application)
  - An introduction to the software, concepts, and methodologies necessary to design and implement web applications. 
  - Designed and construct web applications utilizing remote servers on multiple platforms. 
 </details>
@@ -74,3 +75,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethangutknecht](https://www.linkedin.com/in/ethangutknecht)
  - **📧 Email** - gutkneET@miamioh.edu
+
+
+
+
