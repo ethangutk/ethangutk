@@ -5,10 +5,11 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br>
 
 ## 🏗 *My Projects*
- - [Raytracing Algorithm Program that creates 3D renders. **(🔴C++)**](https://github.com/ethangutknecht/RaytracingProgram)
- - [Meal Tracker Mobile Application. **(🟢C#)**](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
- - [Realistic Hospital Database. **(🟠SQL)**](https://github.com/ethangutknecht/Hospital-SQL-Database)
- - [Fullstack MapQuest Web Application. **(🟤HTML, 🟣CSS, 🟡Javascript)**](https://github.com/ethangutknecht/MapQuest-Application)
+ - [Outrageous Blades, An Immensely Popular ROBLOX Game In 2015  **(🔵Lua)** (UNAVALIBLE UNTIL README.md IS FINISHED)](https://github.com/ethangutknecht/Outrageous-Blades)
+ - [3D Rendering Raytracing Program  **(🔴C++)**](https://github.com/ethangutknecht/RaytracingProgram)
+ - [Meal Tracker Mobile Application  **(🟢C#)**](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
+ - [Realistic Hospital Database  **(🟠SQL)**](https://github.com/ethangutknecht/Hospital-SQL-Database)
+ - [Fullstack MapQuest Web Application  **(🟤HTML, 🟣CSS, 🟡Javascript)**](https://github.com/ethangutknecht/MapQuest-Application)
 <br>
 
 ## 🎓 *Courses I've Taken*
@@ -110,3 +111,6 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethangutknecht](https://www.linkedin.com/in/ethangutknecht)
  - **📧 Email** - gutkneET@miamioh.edu
+
+
+
