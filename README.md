@@ -13,7 +13,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br>
 
 ## 🎓 *Courses I've Taken*
-###### (Click A Class To Expand)
+> Click a class to show more info about it!
 <details>
     <summary>💽 Data Abstractions & Structures</summary>
 
@@ -95,7 +95,6 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 
 
 ## 🧠 *Courses I'm Enrolled In*
-###### (Click A Class To Expand)
 <details>
     <summary>⚖ Comparative Programming Languages</summary>
 
