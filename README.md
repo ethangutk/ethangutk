@@ -110,7 +110,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br>
 
 ## *🔗 Get In Touch*
- - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethangutknecht](https://www.linkedin.com/in/EthanGutknecht)
+ - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
  - **📧 Email** - GutkneET@miamioh.edu
 
 
