@@ -13,6 +13,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br>
 
 ## 🎓 *Courses I've Taken*
+###### (Click A Class To Expand)
 <details>
     <summary>💽 Data Abstractions & Structures</summary>
 
@@ -57,7 +58,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
      - Access different device hardware
      - Display graphical elements.
 </details>
-<details open=true>
+<details>
     <summary>🖼 Foundations of Graphics</summary>
 
  - I took this class in the Fall of 2021 in my third year at Miami University.
@@ -94,6 +95,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 
 
 ## 🧠 *Courses I'm Enrolled In*
+###### (Click A Class To Expand)
 <details>
     <summary>⚖ Comparative Programming Languages</summary>
 
@@ -109,8 +111,8 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br>
 
 ## *🔗 Get In Touch*
- - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethangutknecht](https://www.linkedin.com/in/ethangutknecht)
- - **📧 Email** - gutkneET@miamioh.edu
+ - **🟦 LinkedIn** - [https://www.linkedin.com/in/ethangutknecht](https://www.linkedin.com/in/EthanGutknecht)
+ - **📧 Email** - GutkneET@miamioh.edu
 
 
 
