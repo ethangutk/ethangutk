@@ -109,9 +109,17 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - I will be taking this class in the Spring of 2022 in my third year at Miami University.
  - I will update this as I take the course next Spring!
 </details>
+<details>
+    <summary>✴ Mathematics In Computer Science</summary>
+
+ - I will be taking this class in the Spring of 2022 in my third year at Miami University.
+ - I will update this as I take the course next Spring!
+</details>
 <br>
 
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
  - **📧 Email** - GutkneET@miamioh.edu
+ - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
+
 
