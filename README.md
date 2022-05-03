@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
 
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. As of now, I am a junior studying towards a bachelor’s degree in computer science. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think all of these skills complement each other within computer science, hence why I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
+I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. As of now, I am a junior studying toward a bachelor’s degree in computer science. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think these skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
 <br>
 
 ## 🏗 *My Projects*
@@ -79,7 +79,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 
  - I took this class in the Fall of 2021 in my third year at Miami University.
  - [Created a realistic hospital database over multiple projects (click here to view)](https://github.com/ethangutknecht/Hospital-SQL-Database)
- - Re-discussed the overview of database management, database system architecture, database modeling principles, and logical database design.
+ -  Re-discussed the overview of database management, system architecture, modeling principles, and logical database design.
  - The relational database model, relational integrity constraints, and relational algebra. 
  - Dove deep into relational commercial database management systems and languages.
  - Interactive database processing, view processing, and database application programming.
@@ -89,31 +89,49 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
     <summary>💻 Web Application Programming</summary>
     
  - I took this class in the Fall of 2021 in my third year at Miami University.
- - [Created a full-stack web application as my final project (click here to view)](https://github.com/ethangutknecht/MapQuest-Application)
+ - [Created a full-stack web application as my final project (click here to view).](https://github.com/ethangutknecht/MapQuest-Application)
  - An introduction to the software, concepts, and methodologies necessary to design and implement web applications. 
  - Designed and construct web applications utilizing remote servers on multiple platforms. 
+</details>
+<details>
+    <summary>⚖ Comparative Programming Languages</summary>
+
+ - Learning about the foundations of programming languages and the trade-off between them.
+ - Describe, use, and implement procedure calls and specify programming language syntax and semantics.
+ - Describe and compare approaches to the facilities present in modern programming languages.
+ - Apply different programming paradigms and identify basic concepts in the language translation process.
+</details>
+<details>
+    <summary>⚛ Quantum Computing in Computer Science</summary>
+
+ - A brand new class offered at Miami taught me so much about the unknown side of computing.
+ - Did assignments regarding superposition, linear algebra, spin, entanglement, and teleportation.
+ - Used our knowledge in the topics above to answer questions about mathematics in particle spin, quantum entanglement, and quantum gates while comparing it to classical computing.
+ - Dove deep into quantum algorithms that changed the idea of the potential Quantum Computing, like Deutsch’s Algorithm, Simon's Algorithm, Grover's Algorithm, and Shor's Algorithm.
+</details>
+<details>
+    <summary>✴ Mathematics In Computer Science</summary>
+
+ - We used a programming language called [p5js](https://p5js.org/)
+ - Explored different types of  Computational geometry topics, like Taxi Cab, Euclidean, and Chebyshev. Using this, we also made Voronoi Diagrams.
+ -  Explored a lot about time complexities, explicitly finding the closest pair of points using divide and conquer and brute force.
+ - Coded a lot of imagery with math like Sierpinski's triangle, Hausdorff Dimension, Koch's Curve, Cantor's Set, Fractals, Julia sets, and the Mandelbrot set. We used different approaches to code such imagery, like using L-Systems and recursion with complex numbers.
+ - Explored cryptography and how computers can securely talk to each other over the internet with RSA encryption. 
+ - Explored image processing and how applications like Photoshop and Instagram edit their photos with filters.
 </details>
 <br>
 
 
 ## 🧠 *Courses I'm Enrolled In*
 <details>
-    <summary>⚖ Comparative Programming Languages</summary>
+    <summary>🧩 Intro Artificial Intelligence</summary>
 
- - I will be taking this class in the Spring of 2022 in my third year at Miami University.
- - I will update this as I take the course next Spring!
+ - I will update this as I take the course next Fall!
 </details>
 <details>
-    <summary>⚛ Quantum Computing in Computer Science</summary>
+    <summary>👮‍♂️ Ethical Hacking</summary>
 
- - I will be taking this class in the Spring of 2022 in my third year at Miami University.
- - I will update this as I take the course next Spring!
-</details>
-<details>
-    <summary>✴ Mathematics In Computer Science</summary>
-
- - I will be taking this class in the Spring of 2022 in my third year at Miami University.
- - I will update this as I take the course next Spring!
+ - I will update this as I take the course next Fall!
 </details>
 <br>
 
@@ -121,5 +139,3 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
  - **📧 Email** - GutkneET@miamioh.edu
  - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
-
-
