@@ -5,6 +5,8 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br>
 
 ## 🏗 *My Projects*
+##### 2022
+ - [Many Different Visual Calculations  **(⚪p5js)**](https://github.com/ethangutknecht/VisualCalculations)
 ##### 2021
  - [Meal Tracker Mobile Application  **(🟢C#)**](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
  - [3D Rendering Raytracing Program  **(🔴C++)**](https://github.com/ethangutknecht/RaytracingProgram)
@@ -139,3 +141,5 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
  - **📧 Email** - GutkneET@miamioh.edu
  - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
+
+
