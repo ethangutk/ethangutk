@@ -6,14 +6,14 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 
 ## 🏗 *My Projects*
 ##### 2022
- - [Many Different Visual Calculations  **(⚪p5js)**](https://github.com/ethangutknecht/VisualCalculations)
+ - [Many Different Visual Calculations  **(⚪p5js)**](https://github.com/ethangutknecht/VisualCalculations#-back-to-ethan-gutknechts-profile)
 ##### 2021
- - [Meal Tracker Mobile Application  **(🟢C#)**](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
- - [3D Rendering Raytracing Program  **(🔴C++)**](https://github.com/ethangutknecht/RaytracingProgram)
- - [Realistic Hospital Database  **(🟠SQL)**](https://github.com/ethangutknecht/Hospital-SQL-Database)
- - [Fullstack MapQuest Web Application  **(🟤HTML, 🟣CSS, 🟡Javascript)**](https://github.com/ethangutknecht/MapQuest-Application)
+ - [Meal Tracker Mobile Application  **(🟢C#)**](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application#-back-to-ethan-gutknechts-profile)
+ - [3D Rendering Raytracing Program  **(🔴C++)**](https://github.com/ethangutknecht/RaytracingProgram#-back-to-ethan-gutknechts-profile)
+ - [Realistic Hospital Database  **(🟠SQL)**](https://github.com/ethangutknecht/Hospital-SQL-Database#-back-to-ethan-gutknechts-profile)
+ - [Fullstack MapQuest Web Application  **(🟤HTML, 🟣CSS, 🟡Javascript)**](https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile)
 ##### 2016
- - [Outrageous Blades! An Immensely Popular ROBLOX Game  **(🔵Lua)**](https://github.com/ethangutknecht/Outrageous-Blades)
+ - [Outrageous Blades! An Immensely Popular ROBLOX Game  **(🔵Lua)**](https://github.com/ethangutknecht/Outrageous-Blades#-back-to-ethan-gutknechts-profile)
 <br>
 
 ## 🎓 *Courses I've Taken*
@@ -57,7 +57,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - Developed applications that: 
      - Provide an effective graphical interface
      - Access internet resources
-     - [Developed a meal tracker mobile application as a final project (click here to view)](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application)
+     - [Developed a meal tracker mobile application as a final project (click here to view)](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application#-back-to-ethan-gutknechts-profile)
      - Permanently store data using local databases
      - Access different device hardware
      - Display graphical elements.
@@ -72,7 +72,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
      - 3D geometry
      - 3D transformations
      - The graphics pipeline
-     - [Created a raytracing algorithm project (click here to view)](https://github.com/ethangutknecht/RaytracingProgram)
+     - [Created a raytracing algorithm project (click here to view)](https://github.com/ethangutknecht/RaytracingProgram#-back-to-ethan-gutknechts-profile)
      - Object ordered algorithms
 </details>
 
@@ -80,7 +80,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
     <summary>💿 Database Systems</summary>
 
  - I took this class in the Fall of 2021 in my third year at Miami University.
- - [Created a realistic hospital database over multiple projects (click here to view)](https://github.com/ethangutknecht/Hospital-SQL-Database)
+ - [Created a realistic hospital database over multiple projects (click here to view)](https://github.com/ethangutknecht/Hospital-SQL-Database#-back-to-ethan-gutknechts-profile)
  -  Re-discussed the overview of database management, system architecture, modeling principles, and logical database design.
  - The relational database model, relational integrity constraints, and relational algebra. 
  - Dove deep into relational commercial database management systems and languages.
@@ -91,7 +91,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
     <summary>💻 Web Application Programming</summary>
     
  - I took this class in the Fall of 2021 in my third year at Miami University.
- - [Created a full-stack web application as my final project (click here to view).](https://github.com/ethangutknecht/MapQuest-Application)
+ - [Created a full-stack web application as my final project (click here to view).](https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile)
  - An introduction to the software, concepts, and methodologies necessary to design and implement web applications. 
  - Designed and construct web applications utilizing remote servers on multiple platforms. 
 </details>
@@ -120,6 +120,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - Coded a lot of imagery with math like Sierpinski's triangle, Hausdorff Dimension, Koch's Curve, Cantor's Set, Fractals, Julia sets, and the Mandelbrot set. We used different approaches to code such imagery, like L-Systems and recursion with complex numbers.
  - Explored cryptography and how computers can securely talk to each other over the internet with RSA encryption. 
  - Explored image processing and how applications like Photoshop and Instagram edit their photos with filters.
+ - [Created a bunch of subprojects that explored some of the main concepts in the course](https://github.com/ethangutknecht/VisualCalculations#-back-to-ethan-gutknechts-profile)
 </details>
 <br>
 
