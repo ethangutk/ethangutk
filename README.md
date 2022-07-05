@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome To My GitHub!</h1><br>
+<h1 align="center"> Welcome To My GitHub!</h1>
 <table align="center">
 	<tr>
 		<td>
