@@ -20,7 +20,7 @@
 I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. As of now, I am a senior studying toward a bachelor’s degree in computer science. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think these skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
 <br><br>
 
-## 🏆 *License and Certifications*
+## 🏆 *Professional Certifications*
 ### **🏅 Certified Solutions Architect – Associate** <br>
 > Amazon Web Services<br>
 > *Issued July 2022 · Expires July 2025* <br>
