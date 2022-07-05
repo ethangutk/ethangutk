@@ -2,7 +2,7 @@
 
 ## 😀 *About Me*
 I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. As of now, I am a senior studying toward a bachelor’s degree in computer science. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think these skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
-<br>
+<br><br>
 
 ## 🏗 *My Projects*
 ##### 2022
@@ -14,6 +14,14 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - [Fullstack MapQuest Web Application  **(🟤HTML, 🟣CSS, 🟡Javascript)**](https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile)
 ##### 2016
  - [Outrageous Blades! An Immensely Popular ROBLOX Game  **(🔵Lua)**](https://github.com/ethangutknecht/Outrageous-Blades#-back-to-ethan-gutknechts-profile)
+<br>
+
+## 🥇 *License and Certifications*
+> ### **Certified Solutions Architect – Associate** <br>
+> Amazon Web Services<br>
+> *Issued July 2022 · Expires July 2025* <br>
+> [More info](https://aws.amazon.com/certification/certified-solutions-architect-associate/) · [View Badge](https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url)<br><br>
+>  <a href="https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url"><img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/SAA.png?raw=true" width=150px></a><br>
 <br>
 
 ## 🎓 *Courses I've Taken*
@@ -142,5 +150,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
  - **📧 Email** - GutkneET@miamioh.edu
  - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
+
+
 
 
