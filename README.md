@@ -1,12 +1,8 @@
 <h1 align="center"> Welcome To My GitHub!</h1><br>
 <table align="center">
 	<tr>
-		<th>
-			🏗 My Projects
-		</th>
-	</tr>
-	<tr>
 		<td>
+	<h2 align="center"><i>🏗 My Projects</i></h2>
 	<h6>2022</h6>
 <li><a href="https://github.com/ethangutknecht/VisualCalculations#-back-to-ethan-gutknechts-profile">Many Different Visual Calculations  <b>(⚪p5js)</b></a></li>
 	<h6>2021</h6>
@@ -26,7 +22,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 <br><br>
 
 ## 🥇 *License and Certifications*
-### **Certified Solutions Architect – Associate** <br>
+### **🏅 Certified Solutions Architect – Associate** <br>
 > Amazon Web Services<br>
 > *Issued July 2022 · Expires July 2025* <br>
 > [More info](https://aws.amazon.com/certification/certified-solutions-architect-associate/) · [View Badge](https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url)<br><br>
