@@ -25,7 +25,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 > Amazon Web Services<br>
 > *Issued July 2022 · Expires July 2025* <br>
 > [More info](https://aws.amazon.com/certification/certified-solutions-architect-associate/) · [View Badge](https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url)<br><br>
->  <a href="https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url"><img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/SAA.png?raw=true" width=150px></a><br>
+>  <a href="https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url"><img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/SAA.png?raw=true" width=200px></a><br>
 <br>
 
 
