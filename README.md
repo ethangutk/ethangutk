@@ -1,5 +1,6 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>🏗 My Projects</i></h2>
+
 <p align="center">
 	<a href="https://github.com/ethangutknecht/VisualCalculations">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
@@ -21,7 +22,8 @@
 	</a>
 </p>
 <br>
-<br>
+
+
 ## 😀 *About Me*
 I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. As of now, I am a senior studying toward a bachelor’s degree in computer science. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think these skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
 <br><br>
