@@ -9,7 +9,7 @@
 <li><a href="https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application#-back-to-ethan-gutknechts-profile">Meal Tracker Mobile Application  <b>(🟢C#)</b></a></li>
 <li><a href="https://github.com/ethangutknecht/RaytracingProgram#-back-to-ethan-gutknechts-profile">3D Rendering Raytracing Program  <b>(🔴C++)</b></a></li>
 <li><a href="https://github.com/ethangutknecht/Hospital-SQL-Database#-back-to-ethan-gutknechts-profile">Realistic Hospital Database  <b>(🟠SQL)</b></a></li>
-<li><a href="https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile">Fullstack MapQuest Web Application  <b>(🟤HTML, 🟣CSS, 🟡Javascript)</b></a></li>
+<li><a href="https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile">Fullstack MapQuest Web Application <b>(🟤HTML, 🟣CSS, 🟡Javascript)</b></a></li>
 	<h6>2016</h6>
 <li><a href="https://github.com/ethangutknecht/Outrageous-Blades#-back-to-ethan-gutknechts-profile">Outrageous Blades! An Immensely Popular ROBLOX Game  <b>(🔵Lua)</b></a></li>
 		<br></td>
@@ -23,7 +23,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 ## 🏆 *License and Certifications*
 ### **🏅 Certified Solutions Architect – Associate** <br>
 > Amazon Web Services<br>
-> Certificate ID:	 6E823X8DHNVQ1NWE<br>
+> Certificate ID: 6E823X8DHNVQ1NWE<br>
 > *Issued July 2022 · Expires July 2025* <br>
 > [More info](https://aws.amazon.com/certification/certified-solutions-architect-associate/) · [View Badge](https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url) · [Verify](https://aws.amazon.com/verification)<br><br>
 >  <a href="https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url"><img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/SAA.png?raw=true" width=200px></a><br>
