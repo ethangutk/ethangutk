@@ -2,22 +2,22 @@
 <h2><i>🏗 My Projects</i></h2>
 <p align="center">
 	<a href="https://github.com/ethangutknecht/VisualCalculations">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 	</a>
 	<a href="https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,ABFF65,AAFFD1" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=20,ABFF65,AAFFD1" />
 	</a>
 	<a href="https://github.com/ethangutknecht/RaytracingProgram">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,FF6592,FF9181" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=20,FF6592,FF9181" />
 	</a>
 	<a href="https://github.com/ethangutknecht/Hospital-SQL-Database">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=60,FFCB65,FF8565" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=60,FFCB65,FF8565" />
 	</a>
 	<a href="https://github.com/ethangutknecht/MapQuest-Application">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=MapQuest-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,FFE676,A976FF" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=MapQuest-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=20,FFE676,A976FF" />
 	</a>
 	<a href="https://github.com/ethangutknecht/Outrageous-Blades">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Outrageous-Blades&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,76DEFF,AC9AFF" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Outrageous-Blades&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=20,76DEFF,AC9AFF" />
 	</a>
 </p>
 <br>
@@ -169,8 +169,8 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 ## *📊 Stats*
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ethangutknecht&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=1&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=1&border_color=91bac7&bg_color=23272e&langs_count=8&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=ethangutknecht&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=8&layout=compact" />
 </p>
 
 
