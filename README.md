@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>🏗 My Projects</i></h2>
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/ethangutknecht/VisualCalculations">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 	</a>
