@@ -1,20 +1,27 @@
+<h2 align="center"><i>🏗 My Projects</i></h2>
+<p align="center">
+	<a href="https://github.com/ethangutknecht/VisualCalculations">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	</a>
+	<a href="https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,ABFF65,AAFFD1" />
+	</a>
+	<a href="https://github.com/ethangutknecht/RaytracingProgram">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,FF6592,FF9181" />
+	</a>
+	<a href="https://github.com/ethangutknecht/Hospital-SQL-Database">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=60,FFCB65,FF8565" />
+	</a>
+	<a href="https://github.com/ethangutknecht/MapQuest-Application">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=MapQuest-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,FFE676,A976FF" />
+	</a>
+	<a href="https://github.com/ethangutknecht/Outrageous-Blades">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Outrageous-Blades&title_color=000000&icon_color=000000&text_color=000000&border_radius=1&border_color=000000&show_owner=false&bg_color=20,76DEFF,AC9AFF" />
+	</a>
+</p>
+<br>
+<br>
 <h1 align="center"> Welcome To My GitHub!</h1>
-<table align="center">
-	<tr>
-		<td>
-	<h2 align="center"><i>🏗 My Projects</i></h2>
-	<h6>2022</h6>
-<li><a href="https://github.com/ethangutknecht/VisualCalculations#-back-to-ethan-gutknechts-profile">Many Different Visual Calculations  <b>(⚪p5js)</b></a></li>
-	<h6>2021</h6>
-<li><a href="https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application#-back-to-ethan-gutknechts-profile">Meal Tracker Mobile Application  <b>(🟢C#)</b></a></li>
-<li><a href="https://github.com/ethangutknecht/RaytracingProgram#-back-to-ethan-gutknechts-profile">3D Rendering Raytracing Program  <b>(🔴C++)</b></a></li>
-<li><a href="https://github.com/ethangutknecht/Hospital-SQL-Database#-back-to-ethan-gutknechts-profile">Realistic Hospital Database  <b>(🟠SQL)</b></a></li>
-<li><a href="https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile">Fullstack MapQuest Web Application <b>(🟤HTML, 🟣CSS, 🟡Javascript)</b></a></li>
-	<h6>2016</h6>
-<li><a href="https://github.com/ethangutknecht/Outrageous-Blades#-back-to-ethan-gutknechts-profile">Outrageous Blades! An Immensely Popular ROBLOX Game  <b>(🔵Lua)</b></a></li>
-		<br></td>
-  	</tr>
-</table>
 
 ## 😀 *About Me*
 I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. As of now, I am a senior studying toward a bachelor’s degree in computer science. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) in lovely Oxford, Ohio taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. I am also into video editing, graphic design, and marketing. I think these skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
@@ -158,6 +165,10 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
  - **📧 Email** - GutkneET@miamioh.edu
  - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
+<br>
 
+## *📊 Stats*
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ethangutknecht&hide=contribs&show_icons=true&theme=dark&custom_title=Portfolio%20Stats)](https://github.com/ethangutknecht)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&theme=dark&langs_count=8&layout=compact)](https://github.com/ethangutknecht)
 
