@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
-<h2><i>🏗 My Projects</i></h2>
+<h2><i>🏗 Featured Projects </i></h2>
 <p align="center">
 	<h4>2022</h4>
 	<a href="https://github.com/ethangutknecht/VisualCalculations">
@@ -53,6 +53,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>💽 Data Abstractions & Structures</summary>
 
+ - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE274)
  - I took this class in the Spring of 2020 in my first year at Miami University.
  - Learned about abstract data types and their implementation as data structures using object-oriented programming. 
  - Use object-oriented principles in selecting and analyzing various ADT implementations. 
@@ -63,6 +64,8 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>🔐 Systems I & II</summary>
     
+ - [View Systems I Work](https://github.com/ethangutknecht/MU-CSE278)
+ - [View Systems II Work](https://github.com/ethangutknecht/MU-CSE381)
  - I took Systems I in the Fall of 2020 and Systems II in the Spring of 2021 in my second year at Miami University.
  - This course introduced operating systems concepts and used them as a resource manager. 
  - The principles for the design and implementation of operating systems. 
@@ -173,7 +176,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
- - **🌐 Personal Website** - [www.EthanGutknecht.com](https://www.ethangutknecht.com/)
+ - **🌐 Personal Website** - [www.ethangutknecht.com](https://www.ethangutknecht.com/)
  - **📧 Email** - GutkneET@miamioh.edu
  - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
 <br>
