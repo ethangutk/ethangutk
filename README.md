@@ -50,8 +50,25 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the United States. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus, taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. 
 ### 📚 Courses I've Taken
 > Click a class to show more info about it!
+
 <details>
-    <summary>💽 Data Abstractions & Structures</summary>
+    <summary>📐 Fundamentals of Programming and Problem Solving</summary>
+
+ - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE174)
+ - Intro to programming course.
+ - Explored fundamental problem solving using low-level strategies.
+ - Coded in Java for the entire course.
+</details>
+<details>
+    <summary>🟧 Object Oriented Programming</summary>
+
+ - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE271)
+ - This course took the knowledge from the intro course to teach more complex topics
+ - Focused on OOP fundamentals like inheritance, polymorphism, etc.
+ - Coded in Java for the entire course.
+</details>
+<details>
+    <summary>💽 Data Abstractions & Data Structures</summary>
 
  - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE274)
  - I took this class in the Spring of 2020 in my first year at Miami University.
@@ -188,3 +205,6 @@ Miami University is a public research university in Oxford, Ohio. The university
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=8&layout=compact" />
 </p>
  
+
+
+
