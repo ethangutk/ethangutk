@@ -173,6 +173,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
+ - **🌐 Personal Website** - [www.EthanGutknecht.com](https://www.ethangutknecht.com/)
  - **📧 Email** - GutkneET@miamioh.edu
  - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
 <br>
