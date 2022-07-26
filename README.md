@@ -102,7 +102,8 @@ Miami University is a public research university in Oxford, Ohio. The university
 </details>
 <details>
     <summary>📱  Mobile App Development</summary>
-    
+ 
+ - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE382)
  - I took this class in the Summer of 2021, entering my third year at Miami University.
  - Implementation of cross-platform applications for mobile platforms such as iOS and Android. 
  - Programming languages, development environments, debugging, testing, and application design. 
@@ -141,7 +142,8 @@ Miami University is a public research university in Oxford, Ohio. The university
 </details>
 <details>
     <summary>💻 Web Application Programming</summary>
-    
+
+ - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE383)
  - I took this class in the Fall of 2021 in my third year at Miami University.
  - [Created a full-stack web application as my final project (click here to view).](https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile)
  - An introduction to the software, concepts, and methodologies necessary to design and implement web applications. 
