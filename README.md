@@ -3,27 +3,27 @@
 <p align="center">
 	<h4>2022</h4>
 	<a href="https://github.com/ethangutknecht/VisualCalculations">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 	</a>
 	<a href="https://github.com/ethangutknecht/Personal-Website">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Personal-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=25&border_color=000000&show_owner=false&bg_color=28,C5B4E3,C6A1CF" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Personal-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,C5B4E3,C6A1CF" />
 	</a>
 	<h4>2021</h4>
 	<a href="https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&hide_border=true&border_color=000000&show_owner=false&bg_color=20,ABFF65,AAFFD1" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&hide_border=true&border_color=000000&show_owner=false&bg_color=20,ABFF65,AAFFD1" />
 	</a>
 	<a href="https://github.com/ethangutknecht/RaytracingProgram">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&border_radius=25&border_color=000000&show_owner=false&bg_color=20,FF6592,FF9181" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&border_radius=10&border_color=000000&show_owner=false&bg_color=20,FF6592,FF9181" />
 	</a>
 	<a href="https://github.com/ethangutknecht/Hospital-SQL-Database">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&hide_border=true&show_owner=false&bg_color=60,FFCB65,FF8565" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=60,FFCB65,FF8565" />
 	</a>
 	<a href="https://github.com/ethangutknecht/MapQuest-Application">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=MapQuest-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&hide_border=true&show_owner=false&bg_color=20,FFE676,FFFCC9" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=MapQuest-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=20,FFE676,FFFCC9" />
 	</a>
 	<h4>2016</h4>
 	<a href="https://github.com/ethangutknecht/Outrageous-Blades">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Outrageous-Blades&title_color=000000&icon_color=000000&text_color=000000&border_radius=25&border_color=000000&hide_border=true&show_owner=false&bg_color=20,76DEFF,AC9AFF" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Outrageous-Blades&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=20,76DEFF,AC9AFF" />
 	</a>
 </p>
 <br>
@@ -52,7 +52,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 > Click a class to show more info about it!
 
 <details>
-    <summary>📐 Fundamentals of Programming and Problem Solving</summary>
+    <summary>📐 Coding and Problem Solving Fundamentals</summary>
 
  - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE174)
  - Intro to programming course.
