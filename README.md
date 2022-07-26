@@ -13,7 +13,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&hide_border=true&border_color=000000&show_owner=false&bg_color=20,ABFF65,AAFFD1" />
 	</a>
 	<a href="https://github.com/ethangutknecht/RaytracingProgram">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&border_radius=10&border_color=000000&show_owner=false&bg_color=20,FF6592,FF9181" />
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&border_radius=10&border_color=000000&show_owner=false&bg_color=20,FF9181,FF6592" />
 	</a>
 	<a href="https://github.com/ethangutknecht/Hospital-SQL-Database">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=60,FFCB65,FF8565" />
