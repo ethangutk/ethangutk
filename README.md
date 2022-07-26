@@ -152,6 +152,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>⚖ Comparative Programming Languages</summary>
 
+ - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE465)
  - Learning about the foundations of programming languages and the trade-off between them.
  - Describe, use, and implement procedure calls and specify programming language syntax and semantics.
  - Describe and compare approaches to the facilities present in modern programming languages.
@@ -207,6 +208,8 @@ Miami University is a public research university in Oxford, Ohio. The university
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=8&layout=compact" />
 </p>
  
+
+
 
 
 
