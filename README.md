@@ -1,5 +1,5 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=ethangutknecht&style=for-the-badge&label=  👀  &color=000000"/><br>
-<h1 align="center"> Welcome To My GitHub!</h1>
+<h1 align="center">👋 Welcome To My GitHub!</h1>
 <h2><i>🏗 Featured Projects </i></h2>
 <p align="center">
 	<h4>2022</h4>
