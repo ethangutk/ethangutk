@@ -1,5 +1,4 @@
-<img align="RIGHT" src="https://komarev.com/ghpvc/?username=ethangutknecht&style=for-the-badge&label=  👀  &color=000000"/><br>
-<h1 align="center">👋 Welcome To My GitHub!</h1>
+<h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>🏗 Featured Projects </i></h2>
 <p align="center">
 	<h4>2022</h4>
@@ -30,7 +29,7 @@
 <br>
 
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, and marketing. I think these skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
+I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, and marketing. These skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
 <br><br>
 
 ## 🏆 *License and Certifications*
@@ -45,10 +44,8 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 
 
 ## 🎓 *Education*
-<a href="https://www.miamioh.edu/cec/">
-	<img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/MiamiUniversityLogo.png?raw=true" />
-</a>
-<h4> Bachelor of Science in Computer Science </h4>
+### Miami University
+##### Bachelor of Science in Computer Science
 
 Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the United States. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus, taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. 
 ### 📚 Courses I've Taken
@@ -191,7 +188,7 @@ Miami University is a public research university in Oxford, Ohio. The university
  - I will update this as I take the course next Fall!
 </details>
 <details>
-    <summary>👮‍♂️ Ethical Hacking</summary>
+    <summary>👮‍♂️ Intro To Cybersecurity</summary>
 
  - I will update this as I take the course next Fall!
 </details>
@@ -208,8 +205,12 @@ Miami University is a public research university in Oxford, Ohio. The university
 ## *📊 Stats*
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ethangutknecht&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" /> 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=ethangutknecht&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
 </p>
  
+
+
+
+
+
