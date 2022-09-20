@@ -1,7 +1,7 @@
 <img align="RIGHT" src="https://komarev.com/ghpvc/?username=ethangutknecht&style=for-the-badge&label=  👀  &color=000000"/><br>
 <h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>🏗 Featured Projects </i></h2>
-<p align="center">
+<p align="center">   
 	<h4>2022</h4>
 	<a href="https://github.com/ethangutknecht/VisualCalculations">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
