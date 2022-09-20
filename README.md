@@ -33,7 +33,7 @@
 I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, and marketing. These skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
 <br><br>
 
-## 🏆 *License and Certifications*
+## 🏆 *Professional Certifications*
 ### **🏅 Certified Solutions Architect – Associate** <br>
 > Amazon Web Services<br>
 > Certificate ID: 6E823X8DHNVQ1NWE<br>
@@ -45,8 +45,11 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 
 
 ## 🎓 *Education*
-### Miami University
-##### Bachelor of Science in Computer Science
+
+<a href="https://www.miamioh.edu/cec/">
+	<img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/MiamiUniversityLogo.png?raw=true" />
+</a>
+<h4> Bachelor of Science in Computer Science </h4>
 
 Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the United States. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus, taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. 
 ### 📚 Courses I've Taken
