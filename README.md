@@ -1,7 +1,7 @@
 <img align="RIGHT" src="https://komarev.com/ghpvc/?username=ethangutknecht&style=for-the-badge&label=  👀  &color=000000"/><br>
 <h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>🏗 Featured Projects </i></h2>
-<p align="center">   
+<p align="center">
 	<h4>2022</h4>
 	<a href="https://github.com/ethangutknecht/VisualCalculations">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
@@ -51,7 +51,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 </a>
 <h4> Bachelor of Science in Computer Science </h4>
 
-Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the United States. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus, taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. 
+Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th-oldest public university in the United States. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus, taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. 
 ### 📚 Courses I've Taken
 > Click a class to show more info about it!
 
@@ -60,7 +60,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 
  - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE174)
  - Intro to programming course.
- - Explored fundamental problem solving using low-level strategies.
+ - Explored fundamental problem-solving using low-level strategies.
  - Coded in Java for the entire course.
 </details>
 <details>
@@ -169,7 +169,7 @@ Miami University is a public research university in Oxford, Ohio. The university
  - A new class offered at Miami taught me so much about the unknown side of computing.
  - Did assignments regarding superposition, linear algebra, spin, entanglement, and teleportation.
  - Used our knowledge in the topics above to answer questions about mathematics in particle spin, quantum entanglement, and quantum gates while comparing it to classical computing.
- - Dove deep into quantum algorithms that changed the idea of the potential Quantum Computing, like Deutsch’s Algorithm, Simon's Algorithm, Grover's Algorithm, and Shor's Algorithm.
+ - Dove deep into quantum algorithms that changed the idea of potential Quantum Computing, like Deutsch’s Algorithm, Simon's Algorithm, Grover's Algorithm, and Shor's Algorithm.
 </details>
 <details>
     <summary>✴ Mathematics In Computer Science</summary>
