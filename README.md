@@ -30,7 +30,7 @@
 <br>
 
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, and marketing. These skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and shoot me any questions if needed!
+I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, and marketing. These skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and ask me any questions!
 <br><br>
 
 ## 🏆 *Professional Certifications*
@@ -179,7 +179,7 @@ Miami University is a public research university in Oxford, Ohio. The university
  -  Explored a lot about time complexities, explicitly finding the closest pair of points using divide and conquer and brute force.
  - Coded a lot of imagery with math like Sierpinski's triangle, Hausdorff Dimension, Koch's Curve, Cantor's Set, Fractals, Julia sets, and the Mandelbrot set. We used different approaches to code such imagery, like L-Systems and recursion with complex numbers.
  - Explored cryptography and how computers can securely talk to each other over the internet with RSA encryption. 
- - Explored image processing and how applications like Photoshop and Instagram edit their photos with filters.
+ - Explored image processing and how applications like Photoshop and Instagram edit photos with filters.
  - [Created a bunch of subprojects that explored some of the main concepts in the course](https://github.com/ethangutknecht/VisualCalculations#-back-to-ethan-gutknechts-profile)
 </details>
 <br>
@@ -202,7 +202,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 ## *🔗 Get In Touch*
  - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
  - **🌐 Personal Website** - [www.ethangutknecht.com](https://www.ethangutknecht.com/)
- - **📧 Email** - GutkneET@miamioh.edu
+ - **📧 Email** - GutknechtEthan@gmail.com
  - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
 <br>
 
@@ -213,6 +213,8 @@ Miami University is a public research university in Oxford, Ohio. The university
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
 </p>
  
+
+
 
 
 
