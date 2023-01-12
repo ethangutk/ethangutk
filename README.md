@@ -30,7 +30,7 @@
 <br>
 
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, and marketing. These skills complement each other within computer science, so I take pride in putting time into both simultaneously! Feel free to look at any projects I posted and ask me any questions!
+I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, marketing, and product development. These skills complement each other within computer science, so I take pride in putting time into all of them simultaneously! Feel free to look at any projects I posted and ask me any questions!
 <br><br>
 
 ## 🏆 *Professional Certifications*
@@ -51,7 +51,8 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 </a>
 <h4> Bachelor of Science in Computer Science </h4>
 
-Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th-oldest public university in the United States. I am attending [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus, taking many different CSE courses to expand my knowledge within this field and find what part of computer science I like best. 
+Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th-oldest public university in the United States. I attended [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus.
+
 ### 📚 Courses I've Taken
 > Click a class to show more info about it!
 
@@ -182,19 +183,18 @@ Miami University is a public research university in Oxford, Ohio. The university
  - Explored image processing and how applications like Photoshop and Instagram edit photos with filters.
  - [Created a bunch of subprojects that explored some of the main concepts in the course](https://github.com/ethangutknecht/VisualCalculations#-back-to-ethan-gutknechts-profile)
 </details>
-<br>
-
-
-### 🧠 *Courses I'm Enrolled In*
 <details>
     <summary>🧩 Intro Artificial Intelligence</summary>
 
- - I will update this as I take the course next Fall!
+ - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE486)
+ - Learned about different types of path-finding algorithms.
+ - Explored the history of AI and how it morphed into what it is today.
 </details>
 <details>
     <summary>👮‍♂️ Intro To Cybersecurity</summary>
 
- - I will update this as I take the course next Fall!
+ - Learned about different cyberattacks upon companies and current protocols and procedures to defend them.
+ - Enrolled in the course a little after it was offered at Miami University
 </details>
 <br>
 
@@ -213,10 +213,3 @@ Miami University is a public research university in Oxford, Ohio. The university
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
 </p>
  
-
-
-
-
-
-
-
