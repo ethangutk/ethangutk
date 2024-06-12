@@ -1,36 +1,36 @@
-<img align="RIGHT" src="https://komarev.com/ghpvc/?username=ethangutknecht&style=for-the-badge&label=  👀  &color=000000"/><br>
+<img align="RIGHT" src="https://komarev.com/ghpvc/?username=ethangutk&style=for-the-badge&label=  👀  &color=000000"/><br>
 <h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>🏗 Featured Projects</i></h2>
 <p align="center"> 
 	<h4>2022</h4>
-	<a href="https://github.com/ethangutknecht/VisualCalculations">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=VisualCalculations&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<a href="https://github.com/ethangutk/VisualCalculations">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutk&repo=VisualCalculations&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 	</a>
-	<a href="https://github.com/ethangutknecht/Personal-Website">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Personal-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,C5B4E3,C6A1CF" />
+	<a href="https://github.com/ethangutk/Personal-Website">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutk&repo=Personal-Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,C5B4E3,C6A1CF" />
 	</a>
 	<h4>2021</h4>
-	<a href="https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&hide_border=true&border_color=000000&show_owner=false&bg_color=20,AAFFD1,ABFF65" />
+	<a href="https://github.com/ethangutk/Meal-Tracker-Mobile-Application">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutk&repo=Meal-Tracker-Mobile-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&hide_border=true&border_color=000000&show_owner=false&bg_color=20,AAFFD1,ABFF65" />
 	</a>
-	<a href="https://github.com/ethangutknecht/RaytracingProgram">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&border_radius=10&border_color=000000&show_owner=false&bg_color=20,FF9181,ffa3be" />
+	<a href="https://github.com/ethangutk/RaytracingProgram">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutk&repo=RaytracingProgram&title_color=000000&icon_color=000000&text_color=000000&hide_border=true&border_radius=10&border_color=000000&show_owner=false&bg_color=20,FF9181,ffa3be" />
 	</a>
-	<a href="https://github.com/ethangutknecht/Hospital-SQL-Database">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=60,FFCB65,FF8565" />
+	<a href="https://github.com/ethangutk/Hospital-SQL-Database">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutk&repo=Hospital-SQL-Database&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=60,FFCB65,FF8565" />
 	</a>
-	<a href="https://github.com/ethangutknecht/MapQuest-Application">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=MapQuest-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=20,FFE676,FFFCC9" />
+	<a href="https://github.com/ethangutk/MapQuest-Application">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutk&repo=MapQuest-Application&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=20,FFE676,FFFCC9" />
 	</a>
 	<h4>2016</h4>
-	<a href="https://github.com/ethangutknecht/Outrageous-Blades">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutknecht&repo=Outrageous-Blades&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=20,76DEFF,AC9AFF" />
+	<a href="https://github.com/ethangutk/Outrageous-Blades">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ethangutk&repo=Outrageous-Blades&title_color=000000&icon_color=000000&text_color=000000&border_radius=10&border_color=000000&hide_border=true&show_owner=false&bg_color=20,76DEFF,AC9AFF" />
 	</a>
 </p>
 <br>
 
 ## 😀 *About Me*
-I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutknecht/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, marketing, and product development. These skills complement each other within computer science, so I take pride in putting time into all of them simultaneously! Feel free to look at any projects I posted and ask me any questions!
+I grew up in Cleveland, Ohio, for most of my life. In my early middle school years,  I started to code virtual games on ROBLOX using a low-level coding language called Lua. [On my profile](https://www.roblox.com/users/47934004/profile/#!/creations "my profile title"), I made two very successful games, Outrageous Chase and [Outrageous Blades](https://github.com/ethangutk/Outrageous-Blades), with a combined *376,000* hits, *177,000* unique users, and getting on the website's home page by the time I was 15 years old. I am also into video editing, graphic design, marketing, and product development. These skills complement each other within computer science, so I take pride in putting time into all of them simultaneously! Feel free to look at any projects I posted and ask me any questions!
 <br><br>
 
 ## 🏆 *Professional Certifications*
@@ -39,7 +39,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 > Certificate ID: 6E823X8DHNVQ1NWE<br>
 > *Issued July 2022 · Expires July 2025* <br>
 > [More info](https://aws.amazon.com/certification/certified-solutions-architect-associate/) · [View Badge](https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url) · [Verify](https://aws.amazon.com/verification)<br><br>
->  <a href="https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url"><img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/SAA.png?raw=true" width=200px></a><br>
+>  <a href="https://www.credly.com/badges/23f01fb3-96a5-4f47-9c46-4b926e07377d/public_url"><img src="https://github.com/ethangutk/ethangutk/blob/main/Images/SAA.png?raw=true" width=200px></a><br>
 <br>
 
 
@@ -47,7 +47,7 @@ I grew up in Cleveland, Ohio, for most of my life. In my early middle school yea
 ## 🎓 *Education*
 
 <a href="https://www.miamioh.edu/cec/">
-	<img src="https://github.com/ethangutknecht/ethangutknecht/blob/main/Images/MiamiUniversityLogo.png?raw=true" />
+	<img src="https://github.com/ethangutk/ethangutk/blob/main/Images/MiamiUniversityLogo.png?raw=true" />
 </a>
 <h4> Bachelor of Science in Computer Science </h4>
 
@@ -59,7 +59,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>📐 Coding and Problem Solving Fundamentals</summary>
 
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE174)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE174)
  - Intro to programming course.
  - Explored fundamental problem-solving using low-level strategies.
  - Coded in Java for the entire course.
@@ -67,7 +67,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>🟧 Object Oriented Programming</summary>
 
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE271)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE271)
  - This course took the knowledge from the intro course to teach more complex topics
  - Focused on OOP fundamentals like inheritance, polymorphism, etc.
  - Coded in Java for the entire course.
@@ -75,7 +75,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>💽 Data Abstractions & Data Structures</summary>
 
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE274)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE274)
  - I took this class in the Spring of 2020 in my first year at Miami University.
  - Learned about abstract data types and their implementation as data structures using object-oriented programming. 
  - Use object-oriented principles in selecting and analyzing various ADT implementations. 
@@ -86,8 +86,8 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>🔐 Systems I & II</summary>
     
- - [View Systems I Work](https://github.com/ethangutknecht/MU-CSE278)
- - [View Systems II Work](https://github.com/ethangutknecht/MU-CSE381)
+ - [View Systems I Work](https://github.com/ethangutk/MU-CSE278)
+ - [View Systems II Work](https://github.com/ethangutk/MU-CSE381)
  - I took Systems I in the Fall of 2020 and Systems II in the Spring of 2021 in my second year at Miami University.
  - This course introduced operating systems concepts and used them as a resource manager. 
  - The principles for the design and implementation of operating systems. 
@@ -99,7 +99,7 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>⏰ Algorithms</summary>
 
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE374)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE374)
  - I took this class in the Spring of 2021 in my second year at Miami University.
  - Time is money!
  - This class designed, analyzed, and implemented algorithms and data structures. 
@@ -109,14 +109,14 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>📱  Mobile App Development</summary>
  
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE382)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE382)
  - I took this class in the Summer of 2021, entering my third year at Miami University.
  - Implementation of cross-platform applications for mobile platforms such as iOS and Android. 
  - Programming languages, development environments, debugging, testing, and application design. 
  - Developed applications that: 
      - Provide an effective graphical interface
      - Access internet resources
-     - [Developed a meal tracker mobile application as a final project (click here to view)](https://github.com/ethangutknecht/Meal-Tracker-Mobile-Application#-back-to-ethan-gutknechts-profile)
+     - [Developed a meal tracker mobile application as a final project (click here to view)](https://github.com/ethangutk/Meal-Tracker-Mobile-Application#-back-to-ethan-gutks-profile)
      - Permanently store data using local databases
      - Access different device hardware
      - Display graphical elements.
@@ -131,7 +131,7 @@ Miami University is a public research university in Oxford, Ohio. The university
      - 3D geometry
      - 3D transformations
      - The graphics pipeline
-     - [Created a raytracing algorithm project (click here to view)](https://github.com/ethangutknecht/RaytracingProgram#-back-to-ethan-gutknechts-profile)
+     - [Created a raytracing algorithm project (click here to view)](https://github.com/ethangutk/RaytracingProgram#-back-to-ethan-gutks-profile)
      - Object-ordered algorithms
 </details>
 
@@ -139,7 +139,7 @@ Miami University is a public research university in Oxford, Ohio. The university
     <summary>💿 Database Systems</summary>
 
  - I took this class in the Fall of 2021 in my third year at Miami University.
- - [Created a realistic hospital database over multiple projects (click here to view)](https://github.com/ethangutknecht/Hospital-SQL-Database#-back-to-ethan-gutknechts-profile)
+ - [Created a realistic hospital database over multiple projects (click here to view)](https://github.com/ethangutk/Hospital-SQL-Database#-back-to-ethan-gutks-profile)
  -  Re-discussed the overview of database management, system architecture, modeling principles, and logical database design.
  - The relational database model, relational integrity constraints, and relational algebra. 
  - Dove deep into relational commercial database management systems and languages.
@@ -149,16 +149,16 @@ Miami University is a public research university in Oxford, Ohio. The university
 <details>
     <summary>💻 Web Application Programming</summary>
 
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE383)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE383)
  - I took this class in the Fall of 2021 in my third year at Miami University.
- - [Created a full-stack web application as my final project (click here to view).](https://github.com/ethangutknecht/MapQuest-Application#-back-to-ethan-gutknechts-profile)
+ - [Created a full-stack web application as my final project (click here to view).](https://github.com/ethangutk/MapQuest-Application#-back-to-ethan-gutks-profile)
  - An introduction to the software, concepts, and methodologies necessary to design and implement web applications. 
  - Designed and construct web applications utilizing remote servers on multiple platforms. 
 </details>
 <details>
     <summary>⚖ Comparative Programming Languages</summary>
 
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE465)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE465)
  - Learning about the foundations of programming languages and the trade-off between them.
  - Describe, use, and implement procedure calls and specify programming language syntax and semantics.
  - Describe and compare approaches to the facilities present in modern programming languages.
@@ -181,12 +181,12 @@ Miami University is a public research university in Oxford, Ohio. The university
  - Coded a lot of imagery with math like Sierpinski's triangle, Hausdorff Dimension, Koch's Curve, Cantor's Set, Fractals, Julia sets, and the Mandelbrot set. We used different approaches to code such imagery, like L-Systems and recursion with complex numbers.
  - Explored cryptography and how computers can securely talk to each other over the internet with RSA encryption. 
  - Explored image processing and how applications like Photoshop and Instagram edit photos with filters.
- - [Created a bunch of subprojects that explored some of the main concepts in the course](https://github.com/ethangutknecht/VisualCalculations#-back-to-ethan-gutknechts-profile)
+ - [Created a bunch of subprojects that explored some of the main concepts in the course](https://github.com/ethangutk/VisualCalculations#-back-to-ethan-gutks-profile)
 </details>
 <details>
     <summary>🧩 Intro Artificial Intelligence</summary>
 
- - [View all of my course projects here.](https://github.com/ethangutknecht/MU-CSE486)
+ - [View all of my course projects here.](https://github.com/ethangutk/MU-CSE486)
  - Learned about different types of path-finding algorithms.
  - Explored the history of AI and how it morphed into what it is today.
 </details>
@@ -198,17 +198,10 @@ Miami University is a public research university in Oxford, Ohio. The university
 </details>
 <br>
 
-
-## *🔗 Get In Touch*
- - **🟦 LinkedIn** - [https://www.linkedin.com/in/EthanGutknecht](https://www.linkedin.com/in/EthanGutknecht)
- - **🌐 Personal Website** - [www.ethangutknecht.com](https://www.ethangutknecht.com/)
- - **🧰 University GitLab** - [https://gitlab.csi.miamioh.edu/GutkneET](https://gitlab.csi.miamioh.edu/GutkneET)
-<br>
-
 ## *📊 Stats*
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ethangutknecht&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutknecht&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=ethangutk&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangutk&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
 </p>
  
